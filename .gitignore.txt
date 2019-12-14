@@ -1,2 +1,2 @@
-setup.txt
-init.txt
+**/init*
+**/init.txt*
